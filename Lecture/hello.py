@@ -1,0 +1,10 @@
+print("hello wrld")
+print("Information netwrok Engineering")
+print("Hello Akkarawat you will be great")
+print("I'm Humgry")
+print('he ask me "who got the book"')
+print("I'm good and  "" I will do my best  ")
+print('//')
+print('\ta\na\ta\ta\n\ta')
+print('''\ta
+      a\ta\ta\ta''') 
