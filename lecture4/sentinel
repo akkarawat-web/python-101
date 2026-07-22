@@ -1,0 +1,6 @@
+row = int(input("Enter number of rows :"))
+cols = int(input("Enter number of colums :"))
+for i in range(row):
+    for j in range(cols):
+        print("*", end="")
+    print()
